@@ -6,12 +6,13 @@ export function Links() {
     return(
         <ul className="Links">
             {
-                links.map( ({label, url, color}) => {
+                links.map( ({label, url, color, textColor}) => {
                     return <Link
                         key={label}
                         label = {label}
                         url = {url}
                         color = {color}
+                        textColor = {textColor}
                     />
                 })
             }
