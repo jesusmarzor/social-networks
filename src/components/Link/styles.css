@@ -9,7 +9,6 @@
     font-size: 1.2rem;
     text-decoration: none;
     color: white;
-    border: .3rem solid transparent;
+    border: .3rem solid;
     padding: 1rem;
-    transition: color 300ms ease, background-color 300ms ease, border-color 300ms ease;
 }
