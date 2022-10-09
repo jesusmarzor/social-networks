@@ -1,0 +1,13 @@
+.Header {
+    margin: 2rem;
+}
+
+.Header-img {
+    max-width: 9.375rem;
+    border-radius: 100%;
+}
+
+.Header-h1 {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
